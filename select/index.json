@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "クローンクローン",
+  "base_artist": "Atena",
+  "createdAt": "2026-02-11T09:19:49.372887Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "クローンクローン",
+      "artist": "Atena feat. GUMI & 鏡音リン",
+      "has_synced": true,
+      "path": "select/01_クローンクローン_Atena_feat._GUMI_&_鏡音リン.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "クローンクローン (feat. GUMI & 鏡音リン)",
+      "artist": "Atena",
+      "has_synced": false,
+      "path": "select/pl_01_クローンクローン_(feat._GUMI_&_鏡音リン)_Atena.txt"
+    }
+  ]
+}
